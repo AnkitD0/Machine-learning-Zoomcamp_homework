@@ -2,3 +2,4 @@
 ML zoomcamp
 Hello world
 
+PS1=">"
